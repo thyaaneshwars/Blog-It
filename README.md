@@ -44,7 +44,7 @@ Appwrite serves as the backbone, streamlining backend operations and enhancing t
 
 ## Deployment
 
-BlogApp is live on [Netlify]((https://thyaaneshwar-s-blog-it.netlify.app/)), providing a convenient platform for users to experience the application.
+BlogApp is live on (https://thyaaneshwar-s-blog-it.netlify.app/) providing a convenient platform for users to experience the application.
 
 
 ## Contact Information
