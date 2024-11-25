@@ -49,4 +49,4 @@ BlogApp is live on [Netlify](https://shiva-blog-it.netlify.app/), providing a co
 
 ## Contact Information
 
-- **GitHub:** [Shiva-Dutt](https://github.com/Shiva-Dutt)
+- **GitHub:** [Shiva-Dutt](https://github.com/thyaaneshwars)
